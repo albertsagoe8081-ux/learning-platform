@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+.vs/
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env.local
+
+# Database
+*.mdf
+*.ldf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
